@@ -1,5 +1,19 @@
 # About Me:
-I am a dedicated professional with a focus on front-end development, specializing in technologies such as React, Redux, and JavaScript. My journey in the field has led me to craft various projects, including a full stack Film Catalog app used to track camera settings for photos taken in film photography, several web apps designed to be used in conjunction with board games (Monopoly Money, Catan Calculator, 2000). Additionally, I have undertaken several smaller projects, serving as valuable learning experiences to hone my skills.<br><br>My exploration extends beyond my primary areas of learning, encompassing diverse subjects like Node.js, SQL, C, and Cyber Security, reflecting my commitment to continuous learning and growth.<br><br>My educational background includes a B.A. degree in music from the University of Lethbridge and a Music Diploma in percussion from Red Deer Polytechnic. These academic pursuits have imparted essential skills, including effective time management, project coordination, and adept collaboration within a team setting.<br><br>Discover more about my work by visiting my portfolio website [insert link here].<br><br>Feel free to engage me in conversations about music, graphic design, photography, The Office, or coding! And here's a fun tidbit: I can solve a Rubik's cube in under 30 seconds!<br><br>To connect with me, you can reach out via LinkedIn or send an email to grahammrjantz@gmail.com.<br><br>Stay updated with my professional journey through my social media profiles:<br>
+
+👋 Hi, I'm Graham!
+
+👩‍💻 I'm a dedicated professional passionate about front-end development, specializing in technologies like React, Redux, and JavaScript. My journey in this field has led me to create various projects, ranging from a full-stack Film Catalog app for tracking camera settings in film photography to user-friendly web apps tailored for board games like Monopoly Money and Catan Calculator.
+
+🌱 My commitment to continuous learning extends beyond my primary areas of expertise. I've ventured into diverse domains, exploring Node.js, SQL, C, and Cyber Security, all part of my pursuit of growth and knowledge.
+
+🎓 My educational foundation includes a B.A. degree in music from the University of Lethbridge and a Music Diploma in percussion from Red Deer Polytechnic. These academic experiences have instilled invaluable skills such as effective time management, project coordination, and adept teamwork.
+
+🔗 You can explore my portfolio and discover more about my work [here](https://dev.grahamjantz.com).
+
+💬 I'm always open to engaging conversations about music, graphic design, photography, The Office, or coding! And here's a fun fact: I can solve a Rubik's cube in under 30 seconds!
+
+📧 Reach out to me via email at grahammrjantz@gmail.com or connect on LinkedIn to chat.
+
 
 
 ## 🌐 Socials:
